@@ -1,2 +1,18 @@
-# front-end-code-specification
-前端代码规范
+# 实验室前端代码规范
+
+前端 Vue 工程化目录
+
+Git 提交规范
+
+CSS 命名规范
+
+
+
+
+
+前端技术总结
+
+- Vue + 
+
+
+
